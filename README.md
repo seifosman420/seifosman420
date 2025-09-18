@@ -1,5 +1,5 @@
 # Hello, I'm Seif Osman!
-<a href="[https://linkedin.com](https://www.linkedin.com/in/saif-oddeen-khaled-a7563829b/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/saif-oddeen-khaled-a7563829b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am a undergraduate with a profound interest in technology and a dedication to solving complex problems.
